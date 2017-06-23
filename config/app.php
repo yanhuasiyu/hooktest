@@ -168,6 +168,7 @@ return [
          */
 
         Orphans\GitDeploy\GitDeployServiceProvider::class,
+        Overtrue\LaravelWechat\ServiceProvider::class,
         
         /*
          * Application Service Providers...
