@@ -10,6 +10,7 @@
         "orphans/git-deploy-laravel": "^0.2.0"
     },
     "require-dev": {
+        "filp/whoops": "^2.1",
         "fzaninotto/faker": "~1.4",
         "mockery/mockery": "0.9.*",
         "phpunit/phpunit": "~5.0",
